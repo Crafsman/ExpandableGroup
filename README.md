@@ -1,2 +1,0 @@
-# ExpandableGroup
-Qt ExpandableGroup
